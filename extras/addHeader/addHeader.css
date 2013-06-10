@@ -1,0 +1,18 @@
+#header {
+  background-color: #282828;
+}
+
+#header h1 {
+  margin: 0;
+}
+
+#header h1 a {
+  color: white;
+  display: block;
+  padding: 25px 25px 25px 50px;
+  text-decoration: none;
+  background-image: url(images/header-icon.svg);
+  background-repeat: no-repeat;
+  background-position: 7px center;
+  background-size: 40px;
+}
