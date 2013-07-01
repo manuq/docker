@@ -16,3 +16,12 @@
   background-position: 7px center;
   background-size: 40px;
 }
+
+.docs.markdown {
+  padding: 10px 50px;
+  position: absolute;
+  overflow-y: auto;
+  bottom: 0;
+  top: 72px; 
+}
+
