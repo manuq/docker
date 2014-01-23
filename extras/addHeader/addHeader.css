@@ -7,14 +7,14 @@
 }
 
 #header h1 a {
-  color: white;
+  color: transparent;
   display: block;
-  padding: 25px 25px 25px 50px;
+  padding: 25px 0;
   text-decoration: none;
   background-image: url(images/header-icon.svg);
   background-repeat: no-repeat;
   background-position: 7px center;
-  background-size: 40px;
+  background-size: 400px;
 }
 
 .docs.markdown {
